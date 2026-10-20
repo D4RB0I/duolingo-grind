@@ -1,0 +1,47 @@
+{
+  "updated": "2026-10-20T13:06:00+02:00",
+  "updatedLabel": "Tue Oct 20, 2026 — after the Oct 20 run + live board check (12:52)",
+  "cards": { "streak": 383, "gems": 786, "hearts": "2/5", "freezes": "2/2", "course": "French" },
+  "board": {
+    "title": "Diamond Tournament — Semifinals",
+    "daysLeft": 5,
+    "rank": 8,
+    "xp": 60,
+    "top3": [
+      { "name": "V J", "xp": 1507 },
+      { "name": "Elisa Mantello", "xp": 1032 },
+      { "name": "Phyllis Scarpelli", "xp": 872 }
+    ],
+    "around": [
+      { "rank": 7, "name": "Lanfen", "xp": 90 },
+      { "rank": 8, "name": "YOU", "xp": 60 },
+      { "rank": 9, "name": "Mo", "xp": 55 },
+      { "rank": 10, "name": "ana Veliz", "xp": 50 },
+      { "rank": 11, "name": "Kassidy", "xp": 50 }
+    ],
+    "note": "Top 10 reach the Finals. Your cushion above the line: 10 XP."
+  },
+  "xpByDay": [
+    { "d": "Oct 12", "xp": 0 },
+    { "d": "Oct 13", "xp": 70, "approx": true },
+    { "d": "Oct 14", "xp": 48 },
+    { "d": "Oct 15", "xp": 215, "approx": true },
+    { "d": "Oct 16", "xp": 347, "approx": true },
+    { "d": "Oct 17", "xp": 210, "approx": true },
+    { "d": "Oct 18", "xp": 55, "approx": true },
+    { "d": "Oct 19", "xp": 68 },
+    { "d": "Oct 20", "xp": 50, "plus": true }
+  ],
+  "runs": [
+    { "date": "Oct 11", "start": "00:01 EDT", "duration": "~70m ⚠️ crash", "xp": "—", "gifts": "not claimed (crash)", "lessons": "7", "streak": 374, "accuracy": "—", "lives": "∞ Super", "gems": 388, "freezes": "—", "quests": "2/3", "q": "mid" },
+    { "date": "Oct 12", "start": "14:04 EDT", "duration": "~53m", "xp": "0", "gifts": "1 chest (+5💎)", "lessons": "0 (chess block)", "streak": 375, "accuracy": "—", "lives": "∞ Super", "gems": 542, "freezes": "—", "quests": "1/3", "q": "bad" },
+    { "date": "Oct 13", "start": "08:16 EDT*", "duration": "~26m + retries", "xp": "~70", "gifts": "15-min 2× boost", "lessons": "2", "streak": 376, "accuracy": "100% story", "lives": "11", "gems": 567, "freezes": "—", "quests": "3/3", "q": "ok" },
+    { "date": "Oct 14", "start": "03:06 EDT", "duration": "~75m (2 tries)", "xp": "48", "gifts": "+10💎 quest reward", "lessons": "3 stories", "streak": 377, "accuracy": "100% ×3", "lives": "11", "gems": 597, "freezes": "—", "quests": "2/3", "q": "mid" },
+    { "date": "Oct 15", "start": "03:06 EDT", "duration": "~63m", "xp": "~215", "gifts": "2 boosts drained", "lessons": "8", "streak": 378, "accuracy": "—", "lives": "~11", "gems": 603, "freezes": "—", "quests": "3/3", "q": "ok" },
+    { "date": "Oct 16", "start": "00:06 EDT*", "duration": "3 runs (bug)", "xp": "~347", "gifts": "all chests claimed", "lessons": "12", "streak": 379, "accuracy": "75–100%", "lives": "11", "gems": 671, "freezes": "2/2", "quests": "3/3", "q": "ok" },
+    { "date": "Oct 17", "start": "~01:06 EDT", "duration": "—", "xp": "~210", "gifts": "—", "lessons": "9", "streak": 380, "accuracy": "—", "lives": "finite", "gems": 682, "freezes": "2/2", "quests": "3/3", "q": "ok" },
+    { "date": "Oct 18", "start": "00:07 CEST", "duration": "~73m", "xp": "~55", "gifts": "+12💎 chests", "lessons": "5", "streak": 381, "accuracy": "mostly 100%", "lives": "5/5", "gems": 694, "freezes": "2/2", "quests": "3/3", "q": "ok" },
+    { "date": "Oct 19", "start": "00:07 CEST", "duration": "61m", "xp": "68", "gifts": "3 chests (+13💎) + boost", "lessons": "5", "streak": 382, "accuracy": "2 perfect / 5", "lives": "5→3", "gems": 762, "freezes": "2/2", "quests": "3/3", "q": "ok" },
+    { "date": "Oct 20", "start": "00:07 CEST", "duration": "~60m", "xp": "50+", "gifts": "+14💎 chests", "lessons": "4", "streak": 383, "accuracy": "2 perfect; radio 50%", "lives": "5→2", "gems": 786, "freezes": "2/2", "quests": "2/3 ⚠️", "q": "mid" }
+  ]
+}
