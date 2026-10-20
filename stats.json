@@ -54,7 +54,9 @@
         "xp": 50
       }
     ],
-    "note": "Top 10 reach the Finals. Your cushion above the line: 10 XP."
+    "note": "Top 10 reach the Finals. Your cushion above the line: 10 XP.",
+    "checkedLabel": "Tue Oct 20",
+    "cushion": "You're #8 — inside the Finals zone, but the cushion over the line is only 10 XP. Mo is 5 XP behind you; #7 Lanfen is 30 XP ahead. Five days left in the week."
   },
   "xpByDay": [
     {
@@ -255,6 +257,15 @@
   "nextRun": {
     "time": "02:37 AM",
     "day": "Wed Oct 21",
-    "note": "Randomized — re-rolled after every run"
+    "note": "Randomized — re-rolled after every run",
+    "plan": "quests first, then a full-hour XP push to build the cushion"
+  },
+  "lastRun": {
+    "when": "Tue Oct 20 · 00:07 CEST",
+    "duration": "~60m",
+    "xp": "50+",
+    "lessons": "4",
+    "streak": "382→383",
+    "questNote": "Quests 2/3 — Earn 50 XP ✓ · 2 perfect lessons ✓ · Listen to 12 exercises ✗ (no listening exercises were served; listening stays on from tonight). Gifts: chests claimed, no gems spent. Hearts went 5 → 2."
   }
 }
